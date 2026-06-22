@@ -102,3 +102,5 @@ streamlit run app.py
 Kanchan Nishad
 
 Engineering Student | Web Development | Data Analytics | Machine Learning
+
+live demo :https://demand-prediction-fdnxzcewqn7svvsradvcxz.streamlit.app/
